@@ -1,5 +1,5 @@
 if [[ $# -eq 0 ]]; then
-	echo "error: enter the directory of the vim source repo"
+	echo "error: enter the directory of the vim source repo as the first argument"
 	exit 1
 fi
 
